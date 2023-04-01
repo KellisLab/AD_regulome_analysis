@@ -1,0 +1,3 @@
+[submodule "epiclust"]
+	path = epiclust
+	url = https://github.com/kellislab/epiclust
