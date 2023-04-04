@@ -1,2 +1,6 @@
 * AD regulome analysis
 Scripts for the AD regulome analysis
+** integration_linking_modules
+This directory describes code required for glue-ing together the peak-gene linking, modules, and integration.
+** epiclust
+This is the methodology used for peak-gene linking and modules.
